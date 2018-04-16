@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FileMover</string>
+    <string name="move_config_from">From</string>
+    <string name="move_config_edit_from">Edit from</string>
+    <string name="move_config_to">To</string>
+    <string name="move_config_edit_to">Edit to</string>
+    <string name="move_config_file_extensions">File extensions</string>
+    <string name="move_config_edit_file_extensions">Edit file extensions</string>
+    <string name="move_config_mode">Mode</string>
+    <string name="move_config_mode_copy">Copy</string>
+    <string name="move_config_mode_move">Move</string>
+    <string name="move_config_save">Save</string>
+    <string name="default_empty_value">---</string>
+    <string name="action_run">Run</string>
+    <string-array name="extensions" translatable="false">
+        <item>jpg</item>
+        <item>jpeg</item>
+        <item>pdf</item>
+        <item>mp3</item>
+        <item>wav</item>
+        <item>mp4</item>
+        <item>apk</item>
+        <item>mobi</item>
+        <item>epub</item>
+        <item>aw3</item>
+        <item>zip</item>
+        <item>rar</item>
+        <item>7z</item>
+    </string-array>
+</resources>
